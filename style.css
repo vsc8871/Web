@@ -492,7 +492,7 @@ body.dark .darkmode-toggle i.fa-moon {
 }
 
 hr{
-    width: 100vh;
+    width: fit-content;
 }
 
 /* portfolio section */
