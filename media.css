@@ -15,7 +15,7 @@
     .menu-wrap {
         position: fixed;
         width: 300px;
-        height: 100vh;
+        height: 50vh;
         background-color: #1e2228;
         top: 60px;
         left: -100%;
@@ -37,7 +37,7 @@
     }
 
     .menu-wrap ul>li {
-        margin-bottom: 10px;
+        margin-bottom: 15px;
     }
 
     .menu-wrap ul>li>a {
@@ -326,6 +326,7 @@
 
     .about-info {
         margin-right: 140px;
+        height: fit-content;
     }
 
     #about-para {
