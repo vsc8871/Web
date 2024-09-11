@@ -81,6 +81,7 @@ body.dark .darkmode-toggle i.fa-moon {
 .menu-wrap ul {
     display: flex;
     list-style: none;
+    align-items: center;
 }
 
 .menu-wrap ul>li {
@@ -488,6 +489,10 @@ body.dark .darkmode-toggle i.fa-moon {
     padding-left: 50px;
     color: #7c0101;
     font-size: 18px;
+}
+
+hr{
+    width: 100vh;
 }
 
 /* portfolio section */
